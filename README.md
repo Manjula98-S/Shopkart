@@ -51,52 +51,52 @@ framework Django.
 
 9. Product Details Page
 
-![Web capture_7-12-2022_131145_127 0 0 1](https://user-images.githubusercontent.com/116350176/206118281-04e9af53-4f7e-4995-8c80-c7fa37a10342.jpeg)
+![Web capture_7-12-2022_153645_127 0 0 1](https://user-images.githubusercontent.com/116350176/206154680-35140456-392f-4849-ba74-9063ceca2606.jpeg)
 
 
 10. Hot Product Details Page
 
-![Web capture_7-12-2022_131232_127 0 0 1](https://user-images.githubusercontent.com/116350176/206118561-2ea090a6-a80b-4593-81d3-c49f51a7fe1d.jpeg)
+![Web capture_7-12-2022_153758_127 0 0 1](https://user-images.githubusercontent.com/116350176/206154957-c55461e1-5186-4f7b-b874-bcdd83d1a033.jpeg)
 
 
 11. Product Added to Cart
 
-![Screenshot (339)](https://user-images.githubusercontent.com/116350176/206124054-0609879b-34e5-4172-ab15-d43f453fe654.png)
+![Screenshot (352)](https://user-images.githubusercontent.com/116350176/206160756-56b062ed-b100-4e22-b110-848adf138fa9.png)
 
 
 12. Cart Page
 
-![Web capture_7-12-2022_122019_127 0 0 1](https://user-images.githubusercontent.com/116350176/206124962-f4ff9ea6-2945-4fab-8aa8-194f3debfc74.jpeg)
+![Web capture_7-12-2022_154040_127 0 0 1](https://user-images.githubusercontent.com/116350176/206157837-3c27e465-720f-4032-96c9-c6f3ef23dcf9.jpeg)
 
 
 13. Remove Product From Cart
 
-![Screenshot (340)](https://user-images.githubusercontent.com/116350176/206125550-1e21c044-1bc3-46f0-9ee5-a5155a34bd02.png)
+![Screenshot (355)](https://user-images.githubusercontent.com/116350176/206164289-4827e4a2-bb27-4b1f-9b7d-6112a17049a5.png)
 
 
 14. Cart Page After Product Removed
 
-![Web capture_7-12-2022_123050_127 0 0 1](https://user-images.githubusercontent.com/116350176/206126034-3d4a7250-6831-4064-8b6d-5b53d3beb527.jpeg)
+![Web capture_7-12-2022_154040_127 0 0 1](https://user-images.githubusercontent.com/116350176/206158385-b6095615-9d2a-4830-b855-9d57e43ebfa5.jpeg)
 
 
 15. Product Added to Favourite
 
-![Screenshot (343)](https://user-images.githubusercontent.com/116350176/206128700-40867911-ef0b-4eef-af70-f4c1256e8d3d.png)
+![Screenshot (353)](https://user-images.githubusercontent.com/116350176/206162746-ea0fe9d7-7c3e-41b2-af86-65f7dbd6d4c6.png)
 
 
 16. Favourite Page
 
-![Web capture_7-12-2022_122131_127 0 0 1](https://user-images.githubusercontent.com/116350176/206126302-da166dd0-955c-42e4-9d3e-01cbd7fbb5a8.jpeg)
+![Web capture_7-12-2022_16170_127 0 0 1](https://user-images.githubusercontent.com/116350176/206159416-43f64aa3-aa77-4f6d-aaa6-131c46dd9fcd.jpeg)
 
 
 17. Remove Product From Favourite
 
-![Screenshot (344)](https://user-images.githubusercontent.com/116350176/206134759-3da0ce48-e93c-4920-9027-6275486b2f41.png)
+![Screenshot (356)](https://user-images.githubusercontent.com/116350176/206165152-b1a66019-3595-49f6-8ed4-1c7cf77e23b2.png)
 
 
 18. Favourite Page After Product Removed
 
-![Web capture_7-12-2022_123126_127 0 0 1](https://user-images.githubusercontent.com/116350176/206127231-56c603de-7c90-40d0-81a2-f887e0a892c4.jpeg)
+![Web capture_7-12-2022_161746_127 0 0 1](https://user-images.githubusercontent.com/116350176/206159514-0181124c-6caf-4830-99ca-908dfe0e5ff6.jpeg)
 
 
 

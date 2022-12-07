@@ -91,7 +91,6 @@ framework Django.
 
 17. Remove Product From Favourite
 
-![Screenshot (342)](https://user-images.githubusercontent.com/116350176/206126925-28804b27-20e5-4576-9f47-5ab4a98e9fa5.png)
 
 
 18. Favourite Page After Product Removed

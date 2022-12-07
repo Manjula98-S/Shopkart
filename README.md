@@ -66,7 +66,7 @@ framework Django.
 
 12. Cart Page
 
-![Web capture_7-12-2022_154040_127 0 0 1](https://user-images.githubusercontent.com/116350176/206157837-3c27e465-720f-4032-96c9-c6f3ef23dcf9.jpeg)
+![Web capture_7-12-2022_16144_127 0 0 1](https://user-images.githubusercontent.com/116350176/206155805-f1d66bd7-55d2-487e-9801-f3ee5b177092.jpeg)
 
 
 13. Remove Product From Cart

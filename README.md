@@ -32,17 +32,17 @@ framework Django.
 
 5. Product Page 1
 
-![Web capture_7-12-2022_12357_127 0 0 1](https://user-images.githubusercontent.com/116350176/206115621-63b4ed01-4e5d-498e-8a05-060cd3f373e3.jpeg)
+![Web capture_7-12-2022_153316_127 0 0 1](https://user-images.githubusercontent.com/116350176/206152899-2d359659-116d-4045-b01e-a48b9e50d35d.jpeg)
 
 
 6. Product Page 2
 
-![Web capture_7-12-2022_123536_127 0 0 1](https://user-images.githubusercontent.com/116350176/206117219-4015586f-b019-495b-970b-28a8071ff985.jpeg)
+![Web capture_7-12-2022_153338_127 0 0 1](https://user-images.githubusercontent.com/116350176/206153998-54bbd971-7af4-4964-a896-859d98ee1ccf.jpeg)
 
 
 7. Product Page 3
 
-![Web capture_7-12-2022_12365_127 0 0 1](https://user-images.githubusercontent.com/116350176/206117341-01b7ce1a-890d-4440-a475-59681214881e.jpeg)
+![Web capture_7-12-2022_15344_127 0 0 1](https://user-images.githubusercontent.com/116350176/206153182-f25b7898-9cfa-4ef3-9c73-0b162fbf7a23.jpeg)
 
 
 8. Product Page 4

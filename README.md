@@ -30,4 +30,21 @@ framework Django.
 
 ![Web capture_7-12-2022_12357_127 0 0 1](https://user-images.githubusercontent.com/116350176/206115621-63b4ed01-4e5d-498e-8a05-060cd3f373e3.jpeg)
 
+6. Product Page 2
+
+![Web capture_7-12-2022_123536_127 0 0 1](https://user-images.githubusercontent.com/116350176/206117219-4015586f-b019-495b-970b-28a8071ff985.jpeg)
+
+7. Product Page 3
+
+![Web capture_7-12-2022_12365_127 0 0 1](https://user-images.githubusercontent.com/116350176/206117341-01b7ce1a-890d-4440-a475-59681214881e.jpeg)
+
+8. Product Details Page
+
+![Web capture_7-12-2022_131145_127 0 0 1](https://user-images.githubusercontent.com/116350176/206118281-04e9af53-4f7e-4995-8c80-c7fa37a10342.jpeg)
+
+9. Hot Product Details Page
+
+![Web capture_7-12-2022_131232_127 0 0 1](https://user-images.githubusercontent.com/116350176/206118561-2ea090a6-a80b-4593-81d3-c49f51a7fe1d.jpeg)
+
+
 

@@ -99,9 +99,13 @@ framework Django.
 ![Web capture_7-12-2022_123126_127 0 0 1](https://user-images.githubusercontent.com/116350176/206127231-56c603de-7c90-40d0-81a2-f887e0a892c4.jpeg)
 
 
+
+Thanks For Watching 🙂
+        🙏
+
                                                                 
                                                                 
-                                                                 Thank For Watching
+                                                                 
 
 
 

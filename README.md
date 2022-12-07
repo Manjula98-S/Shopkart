@@ -79,17 +79,22 @@ framework Django.
 ![Web capture_7-12-2022_123050_127 0 0 1](https://user-images.githubusercontent.com/116350176/206126034-3d4a7250-6831-4064-8b6d-5b53d3beb527.jpeg)
 
 
-15. Favourite Page
+15. Product Added to Favourite
+
+![Screenshot (343)](https://user-images.githubusercontent.com/116350176/206128700-40867911-ef0b-4eef-af70-f4c1256e8d3d.png)
+
+
+16. Favourite Page
 
 ![Web capture_7-12-2022_122131_127 0 0 1](https://user-images.githubusercontent.com/116350176/206126302-da166dd0-955c-42e4-9d3e-01cbd7fbb5a8.jpeg)
 
 
-16. Remove Product From Favourite
+17. Remove Product From Favourite
 
 ![Screenshot (342)](https://user-images.githubusercontent.com/116350176/206126925-28804b27-20e5-4576-9f47-5ab4a98e9fa5.png)
 
 
-17. Favourite Page After Product Removed
+18. Favourite Page After Product Removed
 
 ![Web capture_7-12-2022_123126_127 0 0 1](https://user-images.githubusercontent.com/116350176/206127231-56c603de-7c90-40d0-81a2-f887e0a892c4.jpeg)
 

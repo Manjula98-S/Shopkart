@@ -59,4 +59,49 @@ framework Django.
 ![Web capture_7-12-2022_131232_127 0 0 1](https://user-images.githubusercontent.com/116350176/206118561-2ea090a6-a80b-4593-81d3-c49f51a7fe1d.jpeg)
 
 
+11. Product Added to Cart
+
+![Screenshot (339)](https://user-images.githubusercontent.com/116350176/206124054-0609879b-34e5-4172-ab15-d43f453fe654.png)
+
+
+12. Cart Page
+
+![Web capture_7-12-2022_122019_127 0 0 1](https://user-images.githubusercontent.com/116350176/206124962-f4ff9ea6-2945-4fab-8aa8-194f3debfc74.jpeg)
+
+
+13. Remove Product From Cart
+
+![Screenshot (340)](https://user-images.githubusercontent.com/116350176/206125550-1e21c044-1bc3-46f0-9ee5-a5155a34bd02.png)
+
+
+14. Cart Page After Product Removed
+
+![Web capture_7-12-2022_123050_127 0 0 1](https://user-images.githubusercontent.com/116350176/206126034-3d4a7250-6831-4064-8b6d-5b53d3beb527.jpeg)
+
+
+15. Favourite Page
+
+![Web capture_7-12-2022_122131_127 0 0 1](https://user-images.githubusercontent.com/116350176/206126302-da166dd0-955c-42e4-9d3e-01cbd7fbb5a8.jpeg)
+
+
+16. Remove Product From Favourite
+
+![Screenshot (342)](https://user-images.githubusercontent.com/116350176/206126925-28804b27-20e5-4576-9f47-5ab4a98e9fa5.png)
+
+
+17. Favourite Page After Product Removed
+
+![Web capture_7-12-2022_123126_127 0 0 1](https://user-images.githubusercontent.com/116350176/206127231-56c603de-7c90-40d0-81a2-f887e0a892c4.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
 

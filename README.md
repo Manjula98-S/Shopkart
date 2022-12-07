@@ -16,7 +16,7 @@ framework Django.
 
 2. Register Page
 
-![Web capture_7-12-2022_105941_127 0 0 1](https://user-images.githubusercontent.com/116350176/206114723-4c86df8e-ade5-4ebe-b47f-d58637fe479c.jpeg)
+![Web capture_7-12-2022_13234_127 0 0 1](https://user-images.githubusercontent.com/116350176/206116785-9d561582-9728-4dff-a193-9d655c9b6de7.jpeg)
 
 3. Login Page
 

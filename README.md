@@ -102,6 +102,9 @@ framework Django.
 
 20. Product Out of Stock 
 
+![Web capture_31-12-2022_164712_127 0 0 1](https://user-images.githubusercontent.com/116350176/210134977-51f84504-452a-48bc-bc0d-1f5d74a58fbf.jpeg)
+
+
 Thanks For Watching 🙂
         🙏
 

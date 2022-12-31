@@ -95,6 +95,12 @@ framework Django.
 ![Web capture_7-12-2022_161746_127 0 0 1](https://user-images.githubusercontent.com/116350176/206159514-0181124c-6caf-4830-99ca-908dfe0e5ff6.jpeg)
 
 
+19. Product Stock Not Available 
+
+![Screenshot (358)](https://user-images.githubusercontent.com/116350176/210134939-51b39bbf-9eb9-4fe7-a0e4-132addb8b527.png)
+
+
+20. Product Out of Stock 
 
 Thanks For Watching 🙂
         🙏
